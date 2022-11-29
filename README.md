@@ -1,4 +1,5 @@
-##SpaceX
+<img src="https://github.com/katiezhang517/Applied-Data-Science-Capstone-SpaceX/blob/bbceea93424ddbb1f6bd9756af47ffdc4dace4f8/Screenshot%202022-11-29%20IBM-DS_CAPSTONE.jpg">
+
 
 ## Introduction
 
